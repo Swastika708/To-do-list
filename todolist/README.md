@@ -33,34 +33,6 @@ npm install #install dependencies
 npm run dev
 
 🔗 Live Demo <!-- Replace this with actual deployment URL -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
