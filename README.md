@@ -32,4 +32,3 @@ cd To-do-list
 npm install #install dependencies
 npm run dev
 
-🔗 Live Demo <!-- Replace this with actual deployment URL --># To-do-list
